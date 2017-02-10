@@ -44,6 +44,9 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 700; 
 }
+img {
+	max-width: 100%;
+}
 .center {
 	text-align: center;
 }
